@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project2\project2\source.cpp(66): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project2\project2\source.cpp(105): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project2\project2\source.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project2\project2\source.cpp(134): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project2\project2\source.cpp(147): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project2\project2\source.cpp(156): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project2\project2\source.cpp(158): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project2\project2\source.cpp(175): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project2\project2\source.cpp(50): fatal error C1075: "{": не найдена несоответствующая лексема
